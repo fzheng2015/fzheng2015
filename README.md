@@ -6,8 +6,13 @@
 <img align="left" alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img align="" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 
+<details>
+<summary>Top used langages</summary>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fzheng2015&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
+</details>
+  
 <!--
 **fzheng2015/fzheng2015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
